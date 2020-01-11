@@ -1,5 +1,5 @@
 # Temprory folders
 .working space/
-fast-export/
-source/
-target/
+src/fast-export/
+src/source/
+src/target/
