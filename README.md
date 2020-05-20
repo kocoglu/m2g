@@ -11,7 +11,7 @@ Mercurial to git migration with https://github.com/frej/fast-export
 Single chracter "<" , ">"
 ### Usage
 ```sh
-$ m2g.sh
+$ sh m2g.sh
 ```
 ### Inputs
 * Please enter source repository address: e.g ssh://hg@bitbucket.org/{team}/{repositoryname}
